@@ -25,7 +25,7 @@ instruções para a montagem de teste em ordem
        tranferencia
        pagamento
        boleto cartão
-       utils
+ ?     utils 
        link de pagamento 
        folha de pagamento 
 
@@ -41,4 +41,14 @@ instruções para a montagem de teste em ordem
             entregas
             status de trabalho
 
-        utils
+?       utils
+
+5°) messaging
+        atualizar token firebase
+        buscar historioco de notificações
+        consultar FAQ
+                bancario
+                cadastro
+                contabil
+                entrega
+                
